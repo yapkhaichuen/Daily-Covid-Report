@@ -1,4 +1,4 @@
-[![daily-covid-report](https://github.com/yapkhaichuen/daily-covid-report/actions/workflows/daily-covid-report.yml/badge.svg)](https://github.com/yapkhaichuen/daily-covid-report/actions/workflows/daily-covid-report.yml)
+
 
 # daily-covid-report
 

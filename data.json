@@ -1,1 +1,7 @@
-{"country": "Malaysia", "date": "2022-01-18", "case": 3245, "death": 9}
+{
+    "country": "Malaysia",
+    "date": "2022-01-18",
+    "case": 3245,
+    "death": 9,
+    "updated": "Wed Jan 19 18:41:24 2022"
+}

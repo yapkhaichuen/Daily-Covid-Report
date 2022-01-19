@@ -29,7 +29,7 @@ def short_summary():
             "date": date_current,
             "case": case_results,
             "death": death_results,
-            "updated": current_time
+            "generated": current_time
       }
       """save data to json file"""
       with open('data.json', 'w') as outfile:

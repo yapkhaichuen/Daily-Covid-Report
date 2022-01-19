@@ -1,4 +1,6 @@
 import pandas as pd
+import time
+import json
 
 # New Case Data
 cases_url = "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_malaysia.csv"
@@ -20,17 +22,21 @@ date_current = date_dirty[:-26]
 
 # Summary function
 def short_summary():
-  print("\u0332".join("Basic Covid-19 Summary"))
-  print("Country: " + "Malaysia")
-  print("Date: " + date_current)
-  print("Infected: " + str(case_results))
-  print("Deaths: " + str(death_results))
-  print("")
+      summary = {
+            "country": "Malaysia",
+            "date": date_current,
+            "case": case_results,
+            "death": death_results
+      }
+      """save data to json file"""
+      with open('data.json', 'w') as outfile:
+            json.dump(summary, outfile)
+      return summary
 
-  print("\u0332".join("Source"))
-  print("""Results are delay one day, data provided by 
-the Ministry of Health Malaysia covid-19 public data.
-https://github.com/MoH-Malaysia/covid19-public""")
+short_summary()
+
+
 
 # Call function
-short_summary()
+
+

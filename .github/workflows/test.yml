@@ -1,4 +1,4 @@
-name: daily-covid-report
+name: test
 
 on:
   schedule:

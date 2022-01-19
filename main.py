@@ -20,13 +20,16 @@ death_results = int(death_today.deaths_new)
 date_dirty = str(death_today.date)[-36:]
 date_current = date_dirty[:-26]
 
+current_time = time.ctime()
+
 # Summary function
 def short_summary():
       summary = {
             "country": "Malaysia",
             "date": date_current,
             "case": case_results,
-            "death": death_results
+            "death": death_results,
+            "updated": current_time
       }
       """save data to json file"""
       with open('data.json', 'w') as outfile:

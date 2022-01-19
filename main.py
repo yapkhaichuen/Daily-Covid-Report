@@ -33,10 +33,8 @@ def short_summary():
             json.dump(summary, outfile)
       return summary
 
+# Call function
 short_summary()
 
-
-
-# Call function
 
 

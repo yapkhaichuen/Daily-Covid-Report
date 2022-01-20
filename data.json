@@ -1,9 +1,9 @@
 [
     {
         "country": "Malaysia",
-        "date-last-updated": "2022-01-19",
-        "cases": 3229,
-        "death": 13,
-        "generated": "2022-01-20 12:36:00.628663+08:00"
+        "Last updated": "2022-01-19",
+        "Cases": 3229,
+        "Deaths": 13,
+        "Generated": "2022-01-20 12:39:08.398454+08:00"
     }
 ]

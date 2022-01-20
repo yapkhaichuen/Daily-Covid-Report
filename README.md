@@ -14,7 +14,7 @@ https://github.com/MoH-Malaysia/covid19-public
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json) -->
 <!-- The below code snippet is automatically added from https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json -->
 ```json
-[{"country": "Malaysia", "date-last-updated": "2022-01-19", "cases": 3229, "death": 13, "generated": "2022-01-20 11:37:30.962376+08:00"}]
+[{"country": "Malaysia", "date-last-updated": "2022-01-19", "cases": 3229, "death": 13, "generated": "2022-01-20 12:18:29.239630+08:00"}]
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 

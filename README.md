@@ -17,3 +17,6 @@ https://github.com/MoH-Malaysia/covid19-public
 {"country": "Malaysia", "date-last-updated": "2022-01-19", "cases": 3229, "death": 13, "generated": "2022-01-20 11:04:07.811252+08:00"}
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
+
+<!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./relative/path/to/data.json) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->

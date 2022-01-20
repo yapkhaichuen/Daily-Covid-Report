@@ -1,1 +1,9 @@
-[{"country": "Malaysia", "date-last-updated": "2022-01-19", "cases": 3229, "death": 13, "generated": "2022-01-20 12:18:29.239630+08:00"}]
+[
+    {
+        "cases": 3229,
+        "country": "Malaysia",
+        "date-last-updated": "2022-01-19",
+        "death": 13,
+        "generated": "2022-01-20 12:19:28.260252+08:00"
+    }
+]

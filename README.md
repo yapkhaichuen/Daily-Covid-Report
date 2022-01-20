@@ -1,4 +1,3 @@
-<img width="960" alt="COVID-19" src="https://user-images.githubusercontent.com/89649333/150280276-48609bcd-eb7e-4110-a5c0-1e730094e79c.png">
 # Daily Covid-19 Report
 [![Generate Report](https://github.com/yapkhaichuen/daily-covid-report/actions/workflows/generate-report.yml/badge.svg)](https://github.com/yapkhaichuen/daily-covid-report/actions/workflows/generate-report.yml)
 

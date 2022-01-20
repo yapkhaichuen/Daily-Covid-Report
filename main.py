@@ -38,7 +38,7 @@ def short_summary():
       ]
       """save data to json file"""
       with open('data.json', 'w') as outfile:
-            json.dump(summary, outfile)
+            json.dump(summary, outfile, indent=4, sort_keys=True)
       return summary
 
 # Call function

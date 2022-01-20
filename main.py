@@ -30,7 +30,7 @@ def short_summary():
       summary = {
             "country": "Malaysia",
             "date": date_current,
-            "case": case_results,
+            "cases": case_results,
             "death": death_results,
             "generated": current_time
       }

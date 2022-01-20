@@ -64,6 +64,7 @@ jobs:
     # Optional, but recommended
     # Defaults to "Apply automatic changes"
         commit_message: Report generated to README
+        branch: main
 
     # Optional output file paths, defaults to '[./README.md]'.
         output_file_paths: '[./README.md]'

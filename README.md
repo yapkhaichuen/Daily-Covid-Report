@@ -9,7 +9,7 @@ the Ministry of Health Malaysia Covid-19 public data.
 2. timezone-test.py to find out all timezone
 
 Data from: <br>
-https://github.com/MoH-Malaysia/covid19-public
+[MoH-MalaysiaCovid-19 Public Data](https://github.com/MoH-Malaysia/covid19-public)
 
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json) -->
 <!-- The below code snippet is automatically added from https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json -->

@@ -18,3 +18,7 @@ https://github.com/MoH-Malaysia/covid19-public
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
+<!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=data.json) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+

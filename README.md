@@ -11,5 +11,5 @@ the Ministry of Health Malaysia covid-19 public data.
 Data from: <br>
 https://github.com/MoH-Malaysia/covid19-public
 
-<!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->

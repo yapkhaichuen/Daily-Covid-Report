@@ -27,13 +27,15 @@ current_time = str(datetime.datetime.now(KL))
 
 # Summary function
 def short_summary():
-      summary = {
+      summary = [
+            {
             "country": "Malaysia",
             "date-last-updated": date_current,
             "cases": case_results,
             "death": death_results,
             "generated": current_time
       }
+      ]
       """save data to json file"""
       with open('data.json', 'w') as outfile:
             json.dump(summary, outfile)

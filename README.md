@@ -11,6 +11,9 @@ the Ministry of Health Malaysia Covid-19 public data.
 Data from: <br>
 [MoH-MalaysiaCovid-19 Public Data](https://github.com/MoH-Malaysia/covid19-public)
 
+View deployment here: <br>
+[GitHub Pages](https://yapkhaichuen.github.io/daily-covid-report/)
+
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json) -->
 <!-- The below code snippet is automatically added from https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json -->
 ```json
@@ -29,7 +32,3 @@ Data from: <br>
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
 <table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">Country</th><th class="last-updated-th">Last updated</th><th class="cases-th">Cases</th><th class="deaths-th">Deaths</th><th class="generated-th">Generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-01-19</td><td class="cases-td td_num">3229</td><td class="deaths-td td_num">13</td><td class="generated-td td_text">2022-01-20 13:48:03.608046+08:00</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
-
-View deployment here:
-[GitHub Pages](https://yapkhaichuen.github.io/daily-covid-report/)
-

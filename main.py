@@ -30,10 +30,10 @@ def short_summary():
       summary = [
             {
             "country": "Malaysia",
-            "date-last-updated": date_current,
-            "cases": case_results,
-            "death": death_results,
-            "generated": current_time
+            "Last updated": date_current,
+            "Cases": case_results,
+            "Deaths": death_results,
+            "Generated": current_time
       }
       ]
       """save data to json file"""

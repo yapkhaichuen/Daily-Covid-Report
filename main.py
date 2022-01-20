@@ -1,6 +1,7 @@
 import pandas as pd
-import time
+import datetime
 import json
+import pytz
 
 # New Case Data
 cases_url = "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_malaysia.csv"
@@ -20,7 +21,9 @@ death_results = int(death_today.deaths_new)
 date_dirty = str(death_today.date)[-36:]
 date_current = date_dirty[:-26]
 
-current_time = time.ctime()
+# Current time of process for server to log. Malaysian time for refrence
+KL = pytz.timezone('Asia/Kuala_Lumpur')
+current_time = str(datetime.datetime.now(KL))
 
 # Summary function
 def short_summary():

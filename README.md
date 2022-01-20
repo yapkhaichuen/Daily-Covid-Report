@@ -15,6 +15,7 @@ Data from: <br>
 View deployment here: <br>
 [GitHub Pages](https://yapkhaichuen.github.io/daily-covid-report/)
 
+## Raw data
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json) -->
 <!-- The below code snippet is automatically added from https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json -->
 ```json
@@ -29,7 +30,7 @@ View deployment here: <br>
 ]
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
-
+## Generated report
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
 <table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">Country</th><th class="last-updated-th">Last updated</th><th class="cases-th">Cases</th><th class="deaths-th">Deaths</th><th class="generated-th">Generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-01-19</td><td class="cases-td td_num">3229</td><td class="deaths-td td_num">13</td><td class="generated-td td_text">2022-01-20 17:30:08.787788+08:00</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->

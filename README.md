@@ -20,14 +20,14 @@ https://github.com/MoH-Malaysia/covid19-public
         "date-last-updated": "2022-01-19",
         "cases": 3229,
         "death": 13,
-        "generated": "2022-01-20 12:34:14.818724+08:00"
+        "generated": "2022-01-20 12:36:00.628663+08:00"
     }
 ]
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
-<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">country</th><th class="date-last-updated-th">date-last-updated</th><th class="cases-th">cases</th><th class="death-th">death</th><th class="generated-th">generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="date-last-updated-td td_text">2022-01-19</td><td class="cases-td td_num">3229</td><td class="death-td td_num">13</td><td class="generated-td td_text">2022-01-20 12:34:14.818724+08:00</td></tr></tbody></table>
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">country</th><th class="date-last-updated-th">date-last-updated</th><th class="cases-th">cases</th><th class="death-th">death</th><th class="generated-th">generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="date-last-updated-td td_text">2022-01-19</td><td class="cases-td td_num">3229</td><td class="death-td td_num">13</td><td class="generated-td td_text">2022-01-20 12:36:00.628663+08:00</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 

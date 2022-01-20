@@ -29,7 +29,7 @@ current_time = str(datetime.datetime.now(KL))
 def short_summary():
       summary = {
             "country": "Malaysia",
-            "date": date_current,
+            "date-last-updated": date_current,
             "cases": case_results,
             "death": death_results,
             "generated": current_time

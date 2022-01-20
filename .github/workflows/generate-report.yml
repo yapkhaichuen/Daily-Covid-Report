@@ -35,3 +35,22 @@ jobs:
     - name: Execute Python script
       run: |
         python3 main.py
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        EXCLUDED: ${{ secrets.EXCLUDED }}
+        EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+        COUNT_STATS_FROM_FORKS: ${{ secrets.COUNT_STATS_FROM_FORKS }}
+
+    # Commits all changed files to the repository
+    - name: Commit to the output branch of repo
+      run: |
+        git config --global user.name "github-stats[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m 'Generated Report' || echo
+        git push
+        # "echo" returns true so the build succeeds, even if no changed files
+        git commit -m 'Generated Report' || echo
+        git push
+

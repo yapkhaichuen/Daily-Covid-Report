@@ -38,6 +38,7 @@ jobs:
         EXCLUDED: ${{ secrets.EXCLUDED }}
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
         COUNT_STATS_FROM_FORKS: ${{ secrets.COUNT_STATS_FROM_FORKS }}
+      
 
     # Commits all changed files to the repository
     - name: Commit to the output branch of repo
@@ -50,3 +51,6 @@ jobs:
         # "echo" returns true so the build succeeds, even if no changed files
         git commit -m 'Generated Report' || echo
         git push
+        
+    - name: Markdown autodocs
+      uses: dineshsonachalam/markdown-autodocs@v1.0.3

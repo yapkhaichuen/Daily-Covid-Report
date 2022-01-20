@@ -8,6 +8,7 @@ the Ministry of Health Malaysia Covid-19 public data.
 
 1. data.json file for report output
 2. timezone-test.py to find out all timezone
+3. report output is generated every 30 minutes
 
 Data from: <br>
 [MoH-MalaysiaCovid-19 Public Data](https://github.com/MoH-Malaysia/covid19-public)

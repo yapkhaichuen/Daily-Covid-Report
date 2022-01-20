@@ -1,4 +1,4 @@
-# daily-covid-report
+# Daily-covid-report
 [![Generate Report](https://github.com/yapkhaichuen/daily-covid-report/actions/workflows/generate-report.yml/badge.svg)](https://github.com/yapkhaichuen/daily-covid-report/actions/workflows/generate-report.yml)
 
 Generates a simple report about the current Covid-19 cases and deaths in Malaysia.

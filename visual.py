@@ -26,4 +26,4 @@ plt.plot(x1, y1, linestyle = 'dashed')
 # Save plot with transparent background
 plt.axis('off')
 plt.title("New Cases", color='silver')
-plt.savefig('my_plot.png', transparent=True, bbox_inches='tight')
+plt.savefig('cases_graph.png', transparent=True, bbox_inches='tight')

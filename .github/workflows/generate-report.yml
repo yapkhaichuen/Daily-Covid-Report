@@ -32,6 +32,7 @@ jobs:
     - name: Execute Python script
       run: |
         python3 main.py
+        python3 visual.py
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

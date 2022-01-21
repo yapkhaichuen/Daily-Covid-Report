@@ -21,7 +21,6 @@ y1 = cases_today.cases_new
 plt.figure(figsize=(10,3)) 
 plt.plot(x1, y1, linestyle = 'dashed')
 plt.axis('off')
-plt.title("New Cases", color='w')
 plt.savefig('cases_graph.png', transparent=True, bbox_inches='tight')
 
 # Death Plot configurations
@@ -30,5 +29,4 @@ y2 = death_today.deaths_new
 plt.figure(figsize=(10,3)) 
 plt.plot(x2, y2, linestyle = 'dashed', color="red")
 plt.axis('off')
-plt.title("New Deaths", color='w')
 plt.savefig('deaths_graph.png', transparent=True, bbox_inches='tight')

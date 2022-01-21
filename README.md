@@ -14,7 +14,7 @@ Data from: <br>
 [MoH-MalaysiaCovid-19 Public Data](https://github.com/MoH-Malaysia/covid19-public)
 
 View deployment here: <br>
-[GitHub Pages](https://yapkhaichuen.github.io/daily-covid-report/)
+[GitHub Pages](https://yapkhaichuen.github.io/Daily-Covid-Report/)
 
 ## Raw data
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=https://raw.githubusercontent.com/yapkhaichuen/daily-covid-report/main/data.json) -->

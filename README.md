@@ -36,10 +36,10 @@ View deployment here: <br>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## **Cases Graph**
-![new_cases_graph](./cases_graph.png)
+![new_cases_graph](./graphs/cases_graph.png)
 
 ## **Deaths Graph**
-![deaths_graph](./deaths_graph.png)
+![deaths_graph](./graphs/deaths_graph.png)
 
 
 

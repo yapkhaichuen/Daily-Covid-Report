@@ -42,5 +42,9 @@ View deployment here: <br>
 ## **Deaths Graph**
 ![deaths_graph](./graphs/deaths_graph.png)
 
+## **Recovery Graph**
+![recovery_graph](./graphs/recovery_graph.png)
+
+
 
 

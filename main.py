@@ -17,6 +17,13 @@ death_df = pd.read_csv(death_url, usecols=col_list)
 death_today = death_df.tail(n=1)
 death_results = int(death_today.deaths_new)
 
+# Recovery Data
+recovery_url = "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_malaysia.csv"
+col_list = ["date", "cases_recovered"]
+recovery_df = pd.read_csv(recovery_url, usecols=col_list)
+recovery_today = recovery_df.tail(n=1)
+recovery = int(recovery_today.cases_recovered)
+
 # Mount date
 date_dirty = str(death_today.date)[-36:]
 date_current = date_dirty[:-26]

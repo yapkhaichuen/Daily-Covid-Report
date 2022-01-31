@@ -40,6 +40,7 @@ def short_summary():
             "Last updated": date_current,
             "Cases": case_results,
             "Deaths": death_results,
+            "Recovery": recovery,                  
             "Generated": current_time
       }
       ]

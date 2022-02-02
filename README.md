@@ -26,14 +26,14 @@ View deployment here: <br>
         "Cases": 5566,
         "Deaths": 7,
         "Recovery": 3187,
-        "Generated": "2022-02-02 07:37:00.933238+08:00"
+        "Generated": "2022-02-02 08:53:42.994196+08:00"
     }
 ]
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 ## **Generated report**
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
-<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">Country</th><th class="last-updated-th">Last updated</th><th class="cases-th">Cases</th><th class="deaths-th">Deaths</th><th class="recovery-th">Recovery</th><th class="generated-th">Generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-02-01</td><td class="cases-td td_num">5566</td><td class="deaths-td td_num">7</td><td class="recovery-td td_num">3187</td><td class="generated-td td_text">2022-02-02 07:37:00.933238+08:00</td></tr></tbody></table>
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">Country</th><th class="last-updated-th">Last updated</th><th class="cases-th">Cases</th><th class="deaths-th">Deaths</th><th class="recovery-th">Recovery</th><th class="generated-th">Generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-02-01</td><td class="cases-td td_num">5566</td><td class="deaths-td td_num">7</td><td class="recovery-td td_num">3187</td><td class="generated-td td_text">2022-02-02 08:53:42.994196+08:00</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## **Cases Graph**

@@ -22,18 +22,18 @@ View deployment here: <br>
 [
     {
         "Country": "Malaysia",
-        "Last updated": "2022-02-03",
-        "Cases": 5720,
-        "Deaths": 8,
-        "Recovery": 3968,
-        "Generated": "2022-02-05 00:18:27.646386+08:00"
+        "Last updated": "2022-02-04",
+        "Cases": 7234,
+        "Deaths": 11,
+        "Recovery": 5254,
+        "Generated": "2022-02-05 00:47:27.139443+08:00"
     }
 ]
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 ## **Generated report**
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
-<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">Country</th><th class="last-updated-th">Last updated</th><th class="cases-th">Cases</th><th class="deaths-th">Deaths</th><th class="recovery-th">Recovery</th><th class="generated-th">Generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-02-03</td><td class="cases-td td_num">5720</td><td class="deaths-td td_num">8</td><td class="recovery-td td_num">3968</td><td class="generated-td td_text">2022-02-05 00:18:27.646386+08:00</td></tr></tbody></table>
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">Country</th><th class="last-updated-th">Last updated</th><th class="cases-th">Cases</th><th class="deaths-th">Deaths</th><th class="recovery-th">Recovery</th><th class="generated-th">Generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-02-04</td><td class="cases-td td_num">7234</td><td class="deaths-td td_num">11</td><td class="recovery-td td_num">5254</td><td class="generated-td td_text">2022-02-05 00:47:27.139443+08:00</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## **Cases Graph**

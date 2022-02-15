@@ -15,7 +15,7 @@ Data from: <br>
 View deployment here: <br>
 [GitHub Pages](https://yapkhaichuen.github.io/Daily-Covid-Report/)
 
-For Apple devices compatible with Shortcuts (iPad | iPhone | Apple Watch | Mac):
+For Apple devices compatible with Shortcuts (iPad | iPhone | Apple Watch | Mac): <br>
 [Get Covid-19 information Apple Shortcut](https://www.icloud.com/shortcuts/77bf8a1a406e437fa939d172f28f987b)
 Click on the link which will bring you to an iCloud link. On the page, click "Get Shortcut" on a compatible device. A shortcut will be added to your device and connect device. Just click on it and the Covid-19 report will be generated and you'll be presented with the option for Siri to speak outloud.
 

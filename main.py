@@ -29,28 +29,26 @@ date_dirty = str(death_today.date)[-36:]
 date_current = date_dirty[:-26]
 
 # Current time of process for server to log. Malaysian time for refrence
-KL = pytz.timezone('Asia/Kuala_Lumpur')
+KL = pytz.timezone("Asia/Kuala_Lumpur")
 current_time = str(datetime.datetime.now(KL))
 
 # Summary function
 def short_summary():
-      summary = [
-            {
+    summary = [
+        {
             "country": "Malaysia",
             "last updated": date_current,
             "cases": case_results,
             "deaths": death_results,
-            "recovery": recovery,                  
-            "generated": current_time
-      }
-      ]
-      """save data to json file"""
-      with open('data.json', 'w') as outfile:
-            json.dump(summary, outfile, indent=4, sort_keys=False)
-      return summary
+            "recovery": recovery,
+            "generated": current_time,
+        }
+    ]
+    """save data to json file"""
+    with open("data.json", "w") as outfile:
+        json.dump(summary, outfile, indent=4, sort_keys=False)
+    return summary
+
 
 # Call function
 short_summary()
-
-
-

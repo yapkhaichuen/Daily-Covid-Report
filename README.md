@@ -29,14 +29,14 @@ For Apple devices compatible with Shortcuts: <br>
         "cases": 2421,
         "deaths": 9,
         "recovery": 2826,
-        "generated": "2022-12-03 20:53:43.469914+08:00"
+        "generated": "2022-12-03 21:18:06.604553+08:00"
     }
 ]
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 ## **Generated report**
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
-<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">country</th><th class="last-updated-th">last updated</th><th class="cases-th">cases</th><th class="deaths-th">deaths</th><th class="recovery-th">recovery</th><th class="generated-th">generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-12-02</td><td class="cases-td td_num">2421</td><td class="deaths-td td_num">9</td><td class="recovery-td td_num">2826</td><td class="generated-td td_text">2022-12-03 20:53:43.469914+08:00</td></tr></tbody></table>
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">country</th><th class="last-updated-th">last updated</th><th class="cases-th">cases</th><th class="deaths-th">deaths</th><th class="recovery-th">recovery</th><th class="generated-th">generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2022-12-02</td><td class="cases-td td_num">2421</td><td class="deaths-td td_num">9</td><td class="recovery-td td_num">2826</td><td class="generated-td td_text">2022-12-03 21:18:06.604553+08:00</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## **Cases Graph**

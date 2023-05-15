@@ -25,18 +25,18 @@ For Apple devices compatible with Shortcuts: <br>
 [
     {
         "country": "Malaysia",
-        "last updated": "2023-05-06",
-        "cases": 1110,
-        "deaths": 0,
-        "recovery": 1112,
-        "generated": "2023-05-15 18:35:33.667764+08:00"
+        "last updated": "2023-05-13",
+        "cases": 1205,
+        "deaths": 5,
+        "recovery": 1248,
+        "generated": "2023-05-15 19:11:02.331616+08:00"
     }
 ]
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 ## **Generated report**
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data.json) -->
-<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">country</th><th class="last-updated-th">last updated</th><th class="cases-th">cases</th><th class="deaths-th">deaths</th><th class="recovery-th">recovery</th><th class="generated-th">generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2023-05-06</td><td class="cases-td td_num">1110</td><td class="deaths-td td_num">0</td><td class="recovery-td td_num">1112</td><td class="generated-td td_text">2023-05-15 18:35:33.667764+08:00</td></tr></tbody></table>
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="country-th">country</th><th class="last-updated-th">last updated</th><th class="cases-th">cases</th><th class="deaths-th">deaths</th><th class="recovery-th">recovery</th><th class="generated-th">generated</th></tr></thead><tbody ><tr ><td class="country-td td_text">Malaysia</td><td class="last-updated-td td_text">2023-05-13</td><td class="cases-td td_num">1205</td><td class="deaths-td td_num">5</td><td class="recovery-td td_num">1248</td><td class="generated-td td_text">2023-05-15 19:11:02.331616+08:00</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## **Cases Graph**

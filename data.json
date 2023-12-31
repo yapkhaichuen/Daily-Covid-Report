@@ -1,10 +1,10 @@
 [
     {
         "country": "Malaysia",
-        "last updated": "2023-12-23",
-        "cases": 3499,
-        "deaths": 2,
-        "recovery": 3376,
-        "generated": "2023-12-31 11:35:54.876590+08:00"
+        "last updated": "2023-12-30",
+        "cases": 3484,
+        "deaths": 5,
+        "recovery": 4237,
+        "generated": "2023-12-31 12:15:53.670962+08:00"
     }
 ]
